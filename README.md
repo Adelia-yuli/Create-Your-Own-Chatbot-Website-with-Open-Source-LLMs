@@ -1,7 +1,7 @@
 
 # Create Your Own ChatGPT-like Website with Open Source LLMs
 
-Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Create Your Own ChatGPT-like Website with Open Source LLMs from CognitiveClass.ai
 
 ## Mentee Info
 - Name: Adelia Yuli Santika
